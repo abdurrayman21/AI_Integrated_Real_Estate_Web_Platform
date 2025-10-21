@@ -1,0 +1,8 @@
+gradio>=4.0
+pandas>=2.0
+joblib>=1.0
+scikit-learn==1.6.1  # CHANGED: Pinned to the exact version used for model training
+shap>=0.40
+folium>=0.20
+openai>=1.0
+numpy>=1.20
